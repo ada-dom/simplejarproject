@@ -59,4 +59,3 @@ which we can then include on our own project (as external dependencies).
     ```
 11. Un-package the my-packaged-project.jar file, inspect the Manifest file.
     - Since a .jar file is actually just a zip file you can use any unzipping tool.
-
